@@ -12,6 +12,10 @@ This homework is due by the end of the day on September 25th 2019.
 4.  Add the `test-linear-model.r` file to your regression testing (hint:
     use `usethis::use_testthat()` to create the directory structure).
     Make sure your implementation passes the tests.
+5.  Implement gradient descent for ordinary least squares.
+6.  Write test code for your gradient descent function.
+ 
+<!--
 5.  Add the package to [Travis-CI](https://travis-ci.com/) and update
     the `README.md` file so that the badge points to your Travis build
     (hint: use `usethis::use_travis()`). You will know it is working
@@ -19,3 +23,4 @@ This homework is due by the end of the day on September 25th 2019.
     sign up for the Github student pack.
 6.  Add code coverage (with either [Coveralls](https://coveralls.io/) or
     [CodeCov](https://codecov.io/)). Hint use `usethis::use_coverage()`).
+-->
